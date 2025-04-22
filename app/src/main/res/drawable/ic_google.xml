@@ -1,0 +1,20 @@
+<!-- res/drawable/ic_google.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Đây chỉ là icon đơn sắc Google G đơn giản -->
+    <path
+        android:fillColor="#4285F4"
+        android:pathData="M21.35,11.1h-9.18v2.96h5.59c-0.24,1.39-0.96,2.57-2.04,3.37l3.29,2.55c1.92-1.77,3.03-4.38,3.03-7.45,0-0.72-0.07-1.43-0.2-2.1z" />
+    <path
+        android:fillColor="#34A853"
+        android:pathData="M12.17,22c2.76,0 5.07-0.91 6.76-2.45l-3.29-2.55c-0.91,0.61-2.08,0.97-3.46,0.97-2.66,0-4.91-1.8-5.71-4.22l-3.36,2.6c1.47,2.94 4.52,4.94 8.06,4.94z" />
+    <path
+        android:fillColor="#FBBC05"
+        android:pathData="M6.46,13.75c-0.21-0.64-0.33-1.32-0.33-2.03s0.12-1.39 0.33-2.03l-3.36-2.6C2.4,9.15 2,10.54 2,12s0.4,2.85 1.1,4.1l3.36-2.6z" />
+    <path
+        android:fillColor="#EA4335"
+        android:pathData="M12.17,5.35c1.5,0 2.86,0.52 3.93,1.54l2.95-2.95C17.24,2.6 14.93,1.65 12.17,1.65c-3.54,0-6.59,2-8.06,4.94l3.36,2.6c0.8-2.42 3.05-4.22 5.71-4.22z" />
+</vector>
